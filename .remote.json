@@ -2,7 +2,7 @@
   "remoteUrl": "git@github.com:ganoro/equiforte-workspaces-local-2.git",
   "defaultBranch": "main",
   "syncEnabled": false,
-  "lastSyncAt": "2026-03-10T02:32:17.656Z",
-  "lastSyncStatus": "success",
+  "lastSyncAt": null,
+  "lastSyncStatus": "never",
   "lastSyncError": null
 }
